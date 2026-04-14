@@ -1,6 +1,5 @@
-name:"北京油价查询"
-desc:"查询油价"
-icon:"https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Filen.png"
+name: 当前油价
+desc:查油价
 tiles:
   - name: OilPrice
     interval: 600
