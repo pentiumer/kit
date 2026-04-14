@@ -1,0 +1,11 @@
+tiles:
+  - name: OilPrice
+    interval: 600
+    title: '油价'
+    icon: 'car'
+    backgroundColor: '#00B3FF'
+    argument: 'provname=北京'
+script-providers:
+  OilPrice:
+    url: https://fastly.jsdelivr.net/gh/pentiumer/kit@main/oil.js
+    
