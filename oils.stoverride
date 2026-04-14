@@ -1,5 +1,5 @@
 name: 当前油价
-desc:查油价
+desc: 查油价
 tiles:
   - name: OilPrice
     interval: 600
