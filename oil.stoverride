@@ -1,3 +1,6 @@
+name:北京油价查询
+desc:查询油价
+icon:https://developer.apple.com/assests/elements/icons/maps/maps-128x128.png
 tiles:
   - name: OilPrice
     interval: 600
